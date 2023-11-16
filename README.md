@@ -1,8 +1,5 @@
-# kaggle-billionaires_statistics
-
 ## 23/11/16
 EDA Proceeding... 
-
 ## hist
 ![hist](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/4fba261e-fa72-4c7e-a9c9-5fca26a58948)
 
