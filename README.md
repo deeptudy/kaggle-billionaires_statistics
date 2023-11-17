@@ -12,3 +12,7 @@ EDA Proceeding...
 
 ## Missing Value
 ![missing value](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/b80d38d8-f5fe-462d-a82b-cac1a9892983)
+
+
+## One-Hot and Missing Value process
+![process](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/793878d5-2684-4058-babb-b67c6be6a26d)
