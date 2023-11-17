@@ -19,7 +19,7 @@ EDA Proceeding...
 
 
 ## One-Hot and Missing Value process
-![image](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/45dc7d0d-f27d-41e9-afbe-9bc6349b963e)
+![info](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/45dc7d0d-f27d-41e9-afbe-9bc6349b963e)
 
+![process](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/1c521d6e-708b-45b9-9689-9a211220fd4d)
 
-![process](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/793878d5-2684-4058-babb-b67c6be6a26d)
