@@ -5,6 +5,9 @@ Different Categories of Billionaires
 
 ## 23/11/16
 EDA Proceeding... 
+## Datainfo
+![image](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/3ff2dca1-ef75-437d-81ca-1d12a9c2e401)
+
 ## hist
 ![hist](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/4fba261e-fa72-4c7e-a9c9-5fca26a58948)
 
@@ -16,4 +19,7 @@ EDA Proceeding...
 
 
 ## One-Hot and Missing Value process
+![image](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/45dc7d0d-f27d-41e9-afbe-9bc6349b963e)
+
+
 ![process](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/793878d5-2684-4058-babb-b67c6be6a26d)
