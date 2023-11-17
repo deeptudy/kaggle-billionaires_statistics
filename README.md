@@ -23,3 +23,6 @@ EDA Proceeding...
 
 ![process](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/1c521d6e-708b-45b9-9689-9a211220fd4d)
 
+
+## RandomFores(feature_importances_)
+![image](https://github.com/deeptudy/kaggle-billionaires_statistics/assets/103613730/6f828480-d6a7-4aba-b245-88baed8ff6d1)
