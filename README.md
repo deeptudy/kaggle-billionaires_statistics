@@ -1,7 +1,16 @@
 ## Billionaires_Statistics
 [DataSet](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset)
-
+- Purpose of the project:
+  - to practice pre-processing of the dataset including dealing with missing values and outliers.
+  - to classify self-made billionaires using selected features.  
 Different Categories of Billionaires
+
+## Directory
+- main.ipynb: Visualizations, Model evaluations  
+- preprocess.py: Data Pre-processing, Vectorizing  
+- [nn.py](http://nn.py) : ANN model class  
+- nn_utils.py: Custom dataset class  
+- nn_train.py: training function  
 
 ## 23/11/16
 EDA Proceeding... 
